@@ -1,0 +1,94 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Made by Hashhi", "DarkTheme")
+
+local Tab = Window:NewTab("Scripts")
+ScriptsSection = Tab:NewSection("Scripts")
+ ScriptsSection:NewButton("Holiday Feels", "hehehe", function()
+       loadstring(game:HttpGet(('https://pastefy.ga/aKxgjklw/raw'),true))()
+end)
+
+ScriptsSection:NewButton("Chill", "Verh", function()
+       loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\103\97\47\48\118\48\112\98\52\51\104\47\114\97\119\39\41\44\116\114\117\101\41\41\40\41\10")()
+end)
+
+ScriptsSection:NewToggle("Pew", "fkffk", function(state)
+    if state then
+        loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\103\97\47\55\118\69\115\108\110\55\120\47\114\97\119\39\41\44\116\114\117\101\41\41\40\41\10")()
+    else
+    end
+end)
+
+ScriptsSection:NewButton("Murder", "ButtonInfo", function()
+       loadstring(game:HttpGet(('https://pastefy.ga/d7sogwNS/raw'),true))()
+end)
+
+ScriptsSection:NewButton("Keyboard", "dhdu", function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))() 
+end)
+
+local Tab = Window:NewTab("BloxFruit")
+BloxFruitSection = Tab:NewSection("Bloxfruit")
+BloxFruitSection:NewButton("Chiba", "4uri", function()
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHubcomeback/main/Chibacomebackbeta.txt'))()
+end)
+
+BloxFruitSection:NewToggle("Zeus", "tjjt", function(state)
+    if state then
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/BlodyXHub/ZeusHub/main/Loading_Ui"))()
+    else
+    end
+end)
+
+BloxFruitSection:NewButton("Boe", "jfudu", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Boe"))()
+end)
+
+local Tab = Window:NewTab("FescriptV2")
+FescriptV2Section = Tab:NewSection("FescriptV2")
+FescriptV2Section:NewButton("Boom", "jfujr", function()
+       loadstring(game:HttpGet(('https://pastefy.ga/Kqi7ZcbX/raw'),true))()
+end)
+
+FescriptV2Section:NewButton("Snake", "jfudu", function()
+       loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
+end)
+
+FescriptV2Section:NewButton("Under taker", "jfudu", function()
+        loadstring(game:HttpGet(('https://pastefy.ga/mv6EOsOX/raw'),true))()
+end)
+
+FescriptV2Section:NewButton("Glitch", "rhreh", function()
+       loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\103\97\47\84\82\52\89\105\48\88\109\47\114\97\119\39\41\44\116\114\117\101\41\41\40\41\10")()
+end)
+
+FescriptV2Section:NewButton("Sleepy", "rhreh", function()
+     loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\103\97\47\102\103\74\105\55\105\101\55\47\114\97\119\39\41\44\116\114\117\101\41\41\40\41\10")()  
+end)
+
+local Tab = Window:NewTab("Baddass")
+BaddassSection = Tab:NewSection("Baddass")
+BaddassSection:NewButton("GrandMasta", "rhreh", function()
+       loadstring(game:HttpGet("https://pastebin.com/raw/bXj29iRf",true))()
+end)
+
+ BaddassSection:NewButton("Aimbot", "rhreh", function()
+     loadstring(game:HttpGet("https://pastebin.com/raw/3r655NeZ",true))()  
+end)
+ 
+ BaddassSection:NewButton("Grab Knife", "rhreh", function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/YZnvHFFK",true))()
+  end)
+  
+  local Tab = Window:NewTab("Hubs")
+HubsSection = Tab:NewSection("Hubs") 
+HubsSection:NewButton("Pendalum Hub", "rhreh", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+ end)
+ 
+ HubsSection:NewButton("Sussy Hub", "rhreh", function()
+      loadstring(game:HttpGet(('https://gist.githubusercontent.com/Nilrogram/8b0c8bd710be142f383c71f79279752c/raw/e4fb01a7de7cd498bb53270d2ad191dfab268a88/FE%2520SussyHub'),true))();
+  end)
+  
+  HubsSection:NewButton("Inf yield", "rhreh", function()
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+   end)
